@@ -1,0 +1,38 @@
+<html>
+<head>
+<title>{{{esc|title}}}</title>
+<style type="text/css">
+.cite_informal {
+	font-size: 60%;
+	color: #aa00aa;
+}
+</style>
+</head>
+<body>
+
+
+<h1>{{{esc|title}}}</h1>
+
+<table border = "1" cellpadding = "10" width = "90%">
+<tr><td>
+This HTML rendition is done with a skin specifically
+designed to produce output that is friendly to copy/paste
+onto media that don't support HTML-style markup.
+</td></tr>
+</table>
+
+<table border = "1" cellpadding = "5" width = "90%">
+<tr>
+<td class = "toc_head">Contents (Individual Daily Lessons)</td>
+</tr>
+
+
+{{{lit|big-toc}}}
+
+
+</table>
+
+
+{{{lit|contents}}}
+</body>
+</html>

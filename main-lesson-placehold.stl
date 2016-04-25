@@ -1,0 +1,13 @@
+<tr><td>
+
+<a name = "text_{{{esc|current}}}" />
+<table border = "2" cellpadding = "5" width = "95%">
+<tr><td>
+We have not yet finalized the text for <b>day {{{esc|daynum}}}{{{lit|dates}}}</b>:
+but in lieu of at, there is at least <em>some</em> description of it.
+</td></tr><tr><td>
+{{{lit|text}}}
+</td></tr></table>
+<br/><br/>
+
+</td></tr>

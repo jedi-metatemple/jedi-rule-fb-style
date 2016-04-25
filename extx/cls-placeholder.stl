@@ -1,0 +1,12 @@
+<table border = "3" cellpadding = "8" width = "80%">
+<tr><td>
+The actual text that comes at this point has not been finalized.
+In it's stead, we now present some <em>description</em> of what
+will eventually come here -- as well as <em>possibly</em>
+an <em>explanation</em> of what is holding the text up
+<em>from</em> being ready.
+</td></tr>
+<tr><td>
+{{{lit|content}}}
+</td></tr>
+</table>
