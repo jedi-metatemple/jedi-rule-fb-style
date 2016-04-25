@@ -1,6 +1,9 @@
-<table border = "3" cellpadding = "8" width = "80%">
-<tr><td>Some STAR WARS references ...</td></tr>
-<tr><td>
+<p>
+##############################
+<br/>
+# BEGIN EXTENDED TEXT SEGMENT: Some STAR WARS references ...</p>
 {{{lit|content}}}
-</td></tr>
-</table>
+<p># END EXTENDED TEXT SEGMENT:
+<br/>
+##############################
+</p>

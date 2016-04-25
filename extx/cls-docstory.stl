@@ -1,6 +1,12 @@
-<table border = "3" cellpadding = "8" width = "80%">
-<tr><td>-- {{{esc|title}}}</td></tr>
-<tr><td>
+<p>
+##############################
+<br/>
+# BEGIN EXTENDED TEXT SEGMENT: Document Background: Custom Title:
+<br/>
+# TITLE: {{{esc|title}}}
+</p>
 {{{lit|content}}}
-</td></tr>
-</table>
+<p># END EXTENDED TEXT SEGMENT:
+<br/>
+##############################
+</p>

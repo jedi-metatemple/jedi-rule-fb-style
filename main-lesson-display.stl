@@ -1,9 +1,12 @@
-<tr><td>
-<table border = "0" width = "95%"><tr><td>
+
 <a name = "text_{{{esc|current}}}" />
-<b>Day {{{esc|daynum}}}: {{{cap|ttl1}}} ({{{lit|part_num}}}/{{{lit|part_of}}}){{{lit|dates}}}</b>
-<br/><br/>
+<p>
+-----
+-----
+-----
+-----
+-----
+-----
+<br/>
+Day {{{esc|daynum}}}: {{{cap|ttl1}}} ({{{lit|part_num}}}/{{{lit|part_of}}}){{{lit|dates}}}</p>
 {{{lit|text}}}
-<br/><br/>
-</td></tr></table>
-</td></tr>
